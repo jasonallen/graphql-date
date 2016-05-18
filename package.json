@@ -29,7 +29,7 @@
     "istanbul": "^0.4.3",
     "mocha": "^2.4.5"
   },
-  "dependencies": {
+  "peerDependencies": {
     "graphql": "^0.5.0"
   }
 }
