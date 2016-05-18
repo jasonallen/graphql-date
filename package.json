@@ -1,6 +1,6 @@
 {
   "name": "graphql-date",
-  "version": "1.0.1",
+  "version": "git@github.com:jasonallen/graphql-date.git",
   "description": "GraphQL Date Type",
   "main": "index.js",
   "scripts": {
